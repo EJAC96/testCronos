@@ -1,0 +1,1 @@
+#Define all the contstants being used by APISetu
